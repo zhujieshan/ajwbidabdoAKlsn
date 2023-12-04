@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://pan.bingosoft.net/prod-drive/7137417629797093376?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27%25E6%2596%25B0%25E8%25B4%25B5%25E5%25B7%259E%25E7%25A7%25BB%25E5%258A%25A8%25E5%258A%259E%25E5%2585%25AC%25E5%25B9%25B3%25E5%258F%25B0_v5.0.0_build_50000202312041.ipa&amp;AWSAccessKeyId=AE13C121FAFDDA7F6649&amp;Expires=1701697944&amp;Signature=%2B9BHyFNia%2FAx5Hpcp7nkrN5j%2FyI%3D</string>
+					<string>https://github.com/zhujieshan/ajwbidabdoAKlsn/edit/main/新贵州移动办公平台@cmcc.gz.moa.dev.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.moa.dev</string>
+				<string>cmcc.gz.moa.dev</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>40609202311291</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
